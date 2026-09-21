@@ -1,7 +1,5 @@
 # 🍽️ Multi-Branch Restaurant AI Agent 🤖
 
-(In-app branded as "GourmetBistro AI" — see live demo 👀)
-
 A full-stack, multi-branch restaurant platform with a conversational AI agent for ordering, table reservations, and customer support — built as a zero-cost system running entirely on local infrastructure (self-hosted LLM, no paid APIs).
 
 **Stack:** FastAPI ⚡ · LangGraph 🕸️ · PostgreSQL 🐘 · React ⚛️ · Ollama (DeepSeek R1) 🦙
